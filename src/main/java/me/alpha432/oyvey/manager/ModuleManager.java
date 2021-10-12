@@ -48,6 +48,7 @@ public class ModuleManager
         this.modules.add(new Replenish());
         this.modules.add(new SmallShield());
         this.modules.add(new HandChams());
+        this.modules.add(new Bow32k());
         this.modules.add(new Trajectories());
         this.modules.add(new FakePlayer());
         this.modules.add(new TpsSync());
